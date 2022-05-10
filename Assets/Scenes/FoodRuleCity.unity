@@ -52864,7 +52864,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 7a6692d9e075dfe4fbe72ff31d1b8a10,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -50.08027
+      value: -50.043
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7a6692d9e075dfe4fbe72ff31d1b8a10,
         type: 3}
@@ -64199,6 +64199,11 @@ PrefabInstance:
       propertyPath: actor
       value: Joseph
       objectReference: {fileID: 0}
+    - target: {fileID: 3594191103014986389, guid: ea40c9261eaf03644a723872fdbf2d9f,
+        type: 3}
+      propertyPath: animatorController
+      value: 
+      objectReference: {fileID: 9100000, guid: eac3eeb04465cdd4fbe3c841be10944e, type: 2}
     - target: {fileID: 3594191103014986398, guid: ea40c9261eaf03644a723872fdbf2d9f,
         type: 3}
       propertyPath: m_RootOrder

@@ -606,8 +606,9 @@ MonoBehaviour:
       type: 0
       typeString: 
     - title: Entry 1
-      value: -There are 5 different foods you can find them by some of the food places
-        or by people
+      value: '-There are 5 different foods you can find them by some of the food
+        places or by people (Hint: The foods are in places where you might see the
+        foods in real life!)'
       type: 0
       typeString: 
   - id: 8
